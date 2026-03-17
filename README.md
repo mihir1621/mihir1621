@@ -116,4 +116,10 @@ Hexadecimal Software | Dec 2024 – Jun 2025
 
 ---
 
-⭐ From **Mihir Ajay Chaudhari**
+<p align="center">
+
+⭐ **From Mihir Ajay Chaudhari**
+
+*"Code is not just about solving problems — it's about building solutions that people love to use."*
+
+</p>
