@@ -114,13 +114,11 @@ Hexadecimal Software | Dec 2024 – Jun 2025
 ![](https://visitcount.itsvg.in/api?id=mihir1621&icon=5&color=12)
 
 ---
-
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Chaudhari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpak-chaudhari-a3941323a)
-
-📧 Email  
-mihirchaudhari1621@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://mihirs-portfolio-r9s6kvxsk-mihir-chaudharis-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Chaudhari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirchaudhari1851)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihirchaudhari1621@gmail.com)
 
 ---
 
