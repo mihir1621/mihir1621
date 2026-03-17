@@ -110,16 +110,30 @@ Hexadecimal Software | Dec 2024 – Jun 2025
 ---
 # 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://mihirs-portfolio-r9s6kvxsk-mihir-chaudharis-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Chaudhari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirchaudhari1851)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihirchaudhari1621@gmail.com)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mihirchaudhari1851">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/> LinkedIn
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mihirchaudhari1621@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25"/> Gmail
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://mihirs-portfolio-r9s6kvxsk-mihir-chaudharis-projects.vercel.app/">
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="25"/> Portfolio
+</a>
+
+</p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ **From Mihir Ajay Chaudhari**
+⭐ <b>From Mihir Ajay Chaudhari</b>
 
-*"Code is not just about solving problems — it's about building solutions that people love to use."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+modern+web+experiences" />
 
-</p>
+</div>
