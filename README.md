@@ -38,41 +38,35 @@ I enjoy turning ideas into real products using React, Next.js, and modern web te
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-## 🛒 SmartBuy – E-commerce Platform
-Full-stack e-commerce platform built with **Next.js, Tailwind CSS, Prisma, MySQL, and Firebase**.
+### 🛒 SmartBuy — E-commerce Platform
+A full-stack e-commerce application with multi-role dashboards, payment integration, wishlist, invoice generation, and AI chatbot.
 
-Features:
-- Multi-role dashboards
-- Authentication
-- Stripe & Razorpay payments
-- Wishlist
-- Invoice generation
-- AI chatbot
+**Tech Stack:** Next.js • Tailwind CSS • Prisma • MySQL • Firebase
 
-🔗 Live Demo  
-https://smart-buy-rouge.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Application-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-buy-rouge.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621)
 
 ---
 
-## 🎤 AI Voice Calculator
-Voice-powered calculator that allows users to perform calculations using voice commands.
+### 🎤 AI Voice Calculator
+A voice-enabled calculator allowing users to perform calculations through speech commands.
 
-Tech:
-React.js, Google Gemini, Web Speech API
+**Tech Stack:** React.js • Google Gemini • Web Speech API
 
-🔗 Live Demo  
-https://ai-voice-calculator-ebon.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Calculator-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-voice-calculator-ebon.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621)
 
 ---
 
-## ⚖️ LegalLens AI
-AI-powered legal document assistant designed to help users analyze legal documents easily.
+### ⚖️ LegalLens AI
+AI-powered assistant designed to help users understand and analyze legal documents.
 
-🔗 Live Demo  
-https://legal-lens-ai-three.vercel.app/
+**Tech Stack:** Next.js • AI Integration • Modern UI
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Application-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://legal-lens-ai-three.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621)
 ---
 
 # 💼 Experience
