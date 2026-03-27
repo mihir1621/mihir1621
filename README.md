@@ -68,18 +68,6 @@ AI-powered assistant designed to help users understand and analyze legal documen
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Application-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://legal-lens-ai-three.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621)
 ---
-
-# 💼 Experience
-
-### Software Development Intern  
-Hexadecimal Software | Dec 2024 – Jun 2025
-
-• Developed React components improving UI interactivity  
-• Collaborated on component design and frontend architecture  
-• Improved SEO and performance  
-• Managed version control using Git
-
----
 # ⛳ Golf Charity Subscription Platform
 
 🚀 Full Stack Web Application combining golf performance, subscriptions, and charity impact
@@ -88,9 +76,10 @@ A modern web platform where users can submit golf scores, participate in monthly
 
 ---
 
-# 🌐 Live Demo
+# 🚀 Live Demo
 
-🔗 https://golf-charity-platform-pzeq.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Application-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://golf-charity-platform-pzeq.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username/golf-charity-platform)
 
 ---
 
@@ -154,6 +143,17 @@ Users can:
 
 ---
 
+# 💼 Experience
+
+### Software Development Intern  
+Hexadecimal Software | Dec 2024 – Jun 2025
+
+• Developed React components improving UI interactivity  
+• Collaborated on component design and frontend architecture  
+• Improved SEO and performance  
+• Managed version control using Git
+
+---
 
 # 📊 GitHub Stats
 
