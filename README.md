@@ -46,7 +46,7 @@ A full-stack e-commerce application with multi-role dashboards, payment integrat
 **Tech Stack:** Next.js • Tailwind CSS • Prisma • MySQL • Firebase
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Application-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-buy-rouge.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621)
+[![SmartBuy E-commerce](https://img.shields.io/badge/SmartBuy%20E--commerce-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621/SmartBuy)
 
 ---
 
@@ -56,7 +56,7 @@ A voice-enabled calculator allowing users to perform calculations through speech
 **Tech Stack:** React.js • Google Gemini • Web Speech API
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Calculator-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-voice-calculator-ebon.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621)
+[![AI Voice Calculator](https://img.shields.io/badge/AI%20Voice%20Calculator-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621/ai-voice-calculator)
 
 ---
 
@@ -66,7 +66,7 @@ AI-powered assistant designed to help users understand and analyze legal documen
 **Tech Stack:** Next.js • AI Integration • Modern UI
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Application-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://legal-lens-ai-three.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621)
+[![LegalLens AI](https://img.shields.io/badge/LegalLens%20AI-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621/LegalLens-_AI)
 ---
 # ⛳ Golf Charity Subscription Platform
 
@@ -79,7 +79,8 @@ A modern web platform where users can submit golf scores, participate in monthly
 # 🚀 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Application-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://golf-charity-platform-pzeq.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username/golf-charity-platform)
+[![Golf Charity Platform](https://img.shields.io/badge/Golf%20Charity%20Platform-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mihir1621/golf-charity-platform)
+
 
 ---
 
