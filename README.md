@@ -80,6 +80,80 @@ Hexadecimal Software | Dec 2024 – Jun 2025
 • Managed version control using Git
 
 ---
+# ⛳ Golf Charity Subscription Platform
+
+🚀 Full Stack Web Application combining golf performance, subscriptions, and charity impact
+
+A modern web platform where users can submit golf scores, participate in monthly competitions, and contribute to charity through subscription plans.
+
+---
+
+# 🌐 Live Demo
+
+🔗 https://golf-charity-platform-pzeq.vercel.app/
+
+---
+
+# 💡 Project Idea
+
+The goal of this platform is to merge **sports + gamification + social impact**.
+
+Users can:
+- Track their golf performance
+- Compete with others monthly
+- Subscribe to premium plans
+- Contribute to charitable causes
+
+---
+
+# ✨ Features
+
+### 🔐 Authentication
+- Firebase Email/Password Login
+- Google Sign-In
+- Secure session handling
+
+### 🏌️ Golf Score System
+- Submit scores
+- Track performance history
+- Monthly leaderboard ranking
+
+### 💳 Subscription Plans
+- Multiple tiers (Member, Elite, Masters)
+- Stripe payment integration
+- Secure checkout & billing
+
+### 🎁 Monthly Draw
+- Subscribers automatically enter
+- Winner selection system
+
+### ❤️ Charity Contribution
+- Portion of subscription goes to charity
+- Encourages meaningful participation
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![Firebase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Payments
+![Stripe](https://img.shields.io/badge/stripe-purple?style=for-the-badge&logo=stripe&logoColor=white)
+
+### Deployment
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
 
 # 📊 GitHub Stats
 
